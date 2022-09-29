@@ -1,0 +1,63 @@
+* {
+  font-family: "Inter";
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #23252c;
+  color: #ffffff;
+  margin: 0;
+}
+
+main,
+footer {
+  text-align: center;
+}
+
+.main-image {
+  width: 100%;
+}
+
+.card {
+  margin: 0 auto;
+  flex-direction: column;
+  display: flex;
+  height: 70%;
+  width: 40%;
+  background-color: #1a1b21;
+  width: 317px;
+  left: 116px;
+  top: 361px;
+}
+
+.about,
+.interests {
+  color: #dcdcdc;
+  font-size: 10.24px;
+  line-height: 150%;
+}
+
+.footer {
+  padding: 10px 16px;
+  margin-top: auto;
+  background-color: #161619;
+  border-radius: 0px 0px 10px 10px;
+  width: 317px;
+  height: 64px;
+  left: 116px;
+  top: 760px;
+}
+
+.main-info > p:nth-child(3) {
+  color: #f3bf99;
+}
+
+h1,
+p {
+  padding: 0;
+  margin: 10px;
+}
+
+button {
+  width: 200px;
+}
