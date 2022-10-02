@@ -2,7 +2,7 @@ import Twitter from "../assets/Twitter.svg";
 import Facebook from "../assets/Facebook.svg";
 import Instagram from "../assets/Instagram.svg";
 import Linkedin from "../assets/Linkedin.svg";
-import Github from "../assets/Github.svg";
+import Github from "../assets/GitHub.svg";
 
 function Footer() {
   return (
